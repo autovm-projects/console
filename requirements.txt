@@ -1,2 +1,2 @@
-pyvmomi
+pyvmomi==8.0.3.0.1
 dotmap
